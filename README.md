@@ -1,0 +1,2 @@
+# Kata-FOO-BAR-QUIX
+Kata FOO BAR QUIX
